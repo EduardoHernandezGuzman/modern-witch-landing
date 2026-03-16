@@ -1,3 +1,4 @@
 node_modules
 .DS_Store
-distsrc/output.css
+dist
+src/output.css
